@@ -1,1 +1,1 @@
-# slackbot-jira
+# Slack Bot Integration with Jira
